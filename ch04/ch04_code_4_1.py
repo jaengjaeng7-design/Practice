@@ -13,4 +13,4 @@ if response.status_code == 200:
   print(response.text)
 
 else:
-  print("웹 페이지를 불러오는데 실패했습니다.")
+  print("웹 페이지를 불러오는데 실패했습니다.") 
