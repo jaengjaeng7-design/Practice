@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 # tag가 "a"인 첫번째 문장을 찾아서 해당 text를 출력
 
 html_doc = """
-<html><head><title>The Title</title></head>
+<html><head><title>The Title</title></head>`
 <body>
 <p class="title"><b>The Title</b></p>
 <div class="container">
